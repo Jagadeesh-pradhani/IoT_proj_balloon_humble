@@ -38,12 +38,14 @@ ros2 launch project_main simulation_launch.py
 ```
 
 
-## Reference
-https://fede3751.github.io/IoT-lectures-2024/  <br>
-https://github.com/Fede3751?tab=repositories
+
 
 ## Rqt nodes
 Run the following command to view rqt nodes
 ```
 rqt_graph
 ```
+
+## Reference
+https://fede3751.github.io/IoT-lectures-2024/  <br>
+https://github.com/Fede3751?tab=repositories
